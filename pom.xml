@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.travel</groupId>
-    <artifactId>travel_ssm</artifactId>
+    <artifactId>travel-background-ssm</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
