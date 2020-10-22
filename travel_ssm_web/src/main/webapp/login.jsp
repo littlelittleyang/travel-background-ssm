@@ -27,7 +27,7 @@
 <body class="hold-transition login-page">
 	<div class="login-box">
 		<div class="login-logo">
-			<a href="all-admin-index.html"><b>ITCAST</b>后台管理系统</a>
+			<a href="all-admin-index.html"><b>TRAVEL</b>后台管理系统</a>
 		</div>
 		<!-- /.login-logo -->
 		<div class="login-box-body">
