@@ -1,0 +1,6 @@
+/travel_ssm_service/target/
+/travel_ssm_web/target/
+/travel_ssm_domain/target/
+/travel_ssm_dao/target/
+/travel_ssm_utils/target/
+/.gitignore
