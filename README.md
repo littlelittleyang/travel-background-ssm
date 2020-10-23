@@ -5,7 +5,7 @@
 ### 项目演示
 ![项目演示](https://github.com/littlelittleyang/travel-background-ssm/blob/master/img/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA.png)
 ### 功能介绍
-![功能介绍]()
+![功能介绍](https://github.com/littlelittleyang/travel-background-ssm/blob/master/img/%E5%8A%9F%E8%83%BD%E5%9B%BE.png)
 ### 组织结构
 ``` lua
 travel-background-ssm
